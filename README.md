@@ -10,7 +10,10 @@
   <li>В основном работала с NDA-проектами.</li>
 </ul>
 
-Со мной можно связаться с помощью [![Telegram](https://raw.githubusercontent.com/anomerova/anomerova/master/tg_image.png "Telegram")](Telegram)
+Со мной можно связаться с помощью 
+<a href="https://t.me/annie_kelyas">
+   <img src="https://raw.githubusercontent.com/anomerova/anomerova/master/tg_image.svg" width="15px" height="15px" alt="Telegram">
+</a>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
